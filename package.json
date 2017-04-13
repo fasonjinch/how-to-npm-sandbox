@@ -1,0 +1,14 @@
+{
+  "name": "@fason/how-to-npm",
+  "version": "1.0.0",
+  "description": "A how to use npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "fason@cheerio.host",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
